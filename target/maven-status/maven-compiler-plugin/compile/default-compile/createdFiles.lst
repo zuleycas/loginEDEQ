@@ -1,0 +1,4 @@
+com\mycompany\loginedeq\JakartaRestConfiguration.class
+conexion\jdbctest.class
+com\mycompany\loginedeq\servlets\loginservlets.class
+com\mycompany\loginedeq\resources\JakartaEE10Resource.class
